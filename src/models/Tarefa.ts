@@ -1,5 +1,4 @@
 import * as enums from '../utils/enums/Tarefa'
-import { Titulo } from '../components/Tarefa/styles'
 
 class Tarefa {
   titulo: string
